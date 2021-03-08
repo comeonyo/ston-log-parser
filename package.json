@@ -1,0 +1,13 @@
+{
+  "name": "ston-log-parser",
+  "version": "1.0.0",
+  "description": "Parser for Ston access logs",
+  "author": "comeonyo <blackhole8@kakao.com>",
+  "repository": "claygregory/node-cloudfront-log-parser",
+  "homepage": "https://github.com/claygregory/node-cloudfront-log-parser",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
